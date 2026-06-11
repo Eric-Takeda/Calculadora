@@ -2,7 +2,7 @@
 <h2 align="center">Projeto Calculadora simples feito com HTML + CSS + JS</h2>
 
 <p align="center">
-                      
+    <img width="557" height="660" alt="Captura de tela 2026-06-11 154821" src="https://github.com/user-attachments/assets/b8354ea7-2da2-43aa-a94b-a3f89d848d63" />
 </p>
 <p>
   Objetivo: Aprender métedos, condicionais e eventos do JavaScript
