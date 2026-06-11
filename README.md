@@ -9,6 +9,8 @@
 </p>
 
 <footer>
+Link do Projeto:
+<p>https://eric-takeda.github.io/Calculadora/</p>
 Créditos do criador
 <p>https://github.com/Gutoneitzke</p>
 <p>https://github.com/Gutoneitzke/calculadora</p>
